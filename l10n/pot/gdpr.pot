@@ -331,6 +331,10 @@ msgid "Forgetme e-mail"
 msgstr ""
 
 #: CRM/Gdpr/Form/Settings.php
+msgid "Custom groups"
+msgstr ""
+
+#: CRM/Gdpr/Form/Settings.php
 msgid "Email the Point of Contact / DPO?"
 msgstr ""
 
@@ -768,6 +772,10 @@ msgstr ""
 
 #: templates/CRM/Gdpr/Form/Settings.tpl
 msgid "More info"
+msgstr ""
+
+#: templates/CRM/Gdpr/Form/Settings.tpl
+msgid "Data from selected custom groups to be deleted during 'Forget me' process. Leave empty if you do not want any custom groups to be deleted."
 msgstr ""
 
 #: templates/CRM/Gdpr/Page/ContactSummary.tpl
